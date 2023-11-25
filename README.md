@@ -29,7 +29,7 @@
 </td> </tr> </table>
 
 
-💻 Skill Set:
+<img src="ICON/skillset.png" height="15px" width="15px"/> <span> <b> Skill Set </b> </span><br />
 
 <img src="ICON/code.png" height="15px" width="15px"/> <span> C, C++, Python, Bash, Javascript </span><br />
 <img src="ICON/cloud.png" height="15px" width="15px"/> <span> AWS, Azure, GCP, Oracle Cloud, Alibaba Cloud </span><br />
