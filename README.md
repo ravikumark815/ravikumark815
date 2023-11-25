@@ -31,58 +31,8 @@
 
 💻 Skill Set:
 
-- C, C++, Python, Bash, Javascript
-- 
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,javascript" />
-
-<img src="https://skillicons.dev/icons?i=aws" height="40px" width="45px"/>
-<img src="https://skillicons.dev/icons?i=azure" height="40px" width="45px"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="40px" width="45px"/>
-<img src="ICON/oci.jpg" height="40px" width="45px"/>
-<img src="ICON/alibaba.png" height="40px" width="55px"/>
-<img src="ICON/kvm.png" height="40px" width="45px"/>
-<img src="ICON/vmware.png" height="40px" width="60px"/>
-<img src="ICON/openstack.png" height="40px" width="45px"/>
-<img src="https://skillicons.dev/icons?i=docker" height="40px" width="45px"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" height="40px" width="45px"/>
-
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="ICON/perforce.png" height="40px" width="40px"/>
-<img src="ICON/jira.jpeg" height="40px" width="45px"/>
-<img src="ICON/confluence.jpeg" height="40px" width="45px"/>
-<img src="ICON/targetprocess.png" height="40px" width="45px"/>
-<img src="ICON/ubuntu.png" height="40px" width="45px"/>
-<img src="ICON/redhat.svg" height="40px" width="45px"/>
-<img src="ICON/windows.jpg" height="40px" width="45px"/>
-<img src="https://skillicons.dev/icons?i=vscode,vim" />
-
-<img src="ICON/tcp.png" height="40px" width="45px"/>
-<img src="ICON/rs.jpg" height="40px" width="95px"/>
-<img src="ICON/firewall.jpg" height="40px" width="50px"/>
-<img src="ICON/vpn.png" height="40px" width="45px"/>
-
-<br />
-<br />
-<br />
-
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ravikumark815">
-<img src="https://skillicons.dev/icons?i=linkedin" height="30px"/>
-</a>
-<a href="mailto:ravikumark815@gmail.com">
-<img src="ICON/gmail.png" height="30px"/>
-</a>
-<a href="https://github.com/ravikumark815">
-<img src="https://skillicons.dev/icons?i=github" height="30px"/>
-</a>
-<a href="https://leetcode.com/ravikumark815/">
-<img src="ICON/leetcode.png" height="30px"/>
-</a>
-<a href="https://twitter.com/ravikumark815">
-<img src="ICON/twitter.png" height="30px"/>
-</a>
-
-</div>
+<img src="ICON/code.png" height="15px" width="15px"/> <span> C, C++, Python, Bash, Javascript </span><br />
+<img src="ICON/cloud.png" height="15px" width="15px"/> <span> AWS, Azure, GCP, Oracle Cloud, Alibaba Cloud, KVM, VMware </span><br />
+<img src="https://skillicons.dev/icons?i=kubernetes" height="15px" width="15px"/> <span> Docker, Kubernetes </span><br />
+<img src="ICON/network.png" height="15px" width="15px"/> <span> TCP/IP, Network Security, NAT, High Availability, SSL/TLS, VPN, Routing, Switching </span><br />
+<img src="ICON/tools.png" height="15px" width="15px"/> <span> Git, Perforce, Jira, Confluence, Target Process, Agile, Linux, Windows </span><br />
