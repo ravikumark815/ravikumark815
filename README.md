@@ -23,7 +23,8 @@
 
 - Performance
 - Linux Kernel
-- Cloud Computing, Virtualization
+- Cloud Computing
+- Virtualization
 - DPDK
 </td> </tr> </table>
 
