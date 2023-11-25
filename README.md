@@ -1,5 +1,6 @@
-### About Me
+### Hi There! 👋
 
+<div>
 ★ Software Developer with extensive experience of 8+ years in developing System Platform Software, Network Datapath, Applications and Tools for Next Generation Firewalls (NGFW), Switches and Access points.
 
 ★ Proficient in Network Security, Cloud Computing, Virtualization, Containerization, Linux Internals, Software Architecture, with a keen grasp of latest technologies.
@@ -10,17 +11,24 @@
 
 ★ Committed to fostering collaboration among Support, QA, and Engineering teams to implement system-level improvements that benefit end-users.
 
-<div align="center">
+</div>
+
+<div align="left">
 <a href="https://www.linkedin.com/in/ravikumark815">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="linkedin" />
+</a>
+<a href="https://github.com/ravikumark815">
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 </a>
 <a href="https://leetcode.com/ravikumark815/">
 <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode" />
 </a>
+<a href="https://twitter.com/ravikumark815">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter" />
+</a>
 <a href="mailto:ravikumark815@gmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-
 
 <!-- 
 
@@ -77,8 +85,9 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" />
 <img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" alt="confluence" />
 <img src="https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vs code" />
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" />
 </div>
+
+<!--
 
 ### GitHub Stats
 <div align="center">
@@ -105,7 +114,7 @@
 <div>
 
 ---
-<!--
+
 <div align='center'>
 
 ![](https://komarev.com/ghpvc/?username=ravikumark815&label=Profile+Views)
