@@ -3,10 +3,12 @@
 <img src="ICON/aboutme.png" height="15px" width="15px"/> <span> <b> About Me </b> </span><br />
 - Software Developer with extensive experience of 8+ years in developing System Platform Software, Network Datapath, Applications and Tools for Next Generation Firewalls (NGFW), Switches and Access points.
 - Proficient in Layer 2, 3, 4 & 7 networking, Network Security, Cloud Computing, Virtualization, Containerization, Linux Internals, Software Architecture, with a keen grasp of latest technologies.
-- Committed to fostering collaboration among Engineering, QA and Support teams to implement system-level improvements that benefit end-users.
+- Committed to fostering collaboration among Engineering, QA and Support teams to implement system-level improvements that benefit end-users.<br />
+
+<img src="ICON/resume.png" height="17px" width="17px"/> <span> <a href="https://github.com/ravikumark815/resume/blob/master/Resume.pdf"> My Resumé </a> </span><br />
 
 <img src="ICON/education.png" height="15px" width="15px"/> <span> <b> Education </b> </span><br />
-- <a href="https://github.com/ravikumark815/certifications/blob/master/Masters_Degree.pdf">Master of Technology</a> in Software Systems – Security from Birla Institute of Technology and Science. 2021 – 2023<br>
+- <a href="https://github.com/ravikumark815/certifications/blob/master/Masters_Degree.pdf">Master of Technology</a> in Software Systems – Security from Birla Institute of Technology and Science. 2021 – 2023<br />
 - <a href="https://github.com/ravikumark815/certifications/blob/master/Bachelors_Degree.pdf">Bachelor of Engineering</a> in Computer Science & Engineering from Visvesvaraya Technological University. 2011 – 2015
 
 <img src="ICON/work.png" height="15px" width="15px"/> <span> <b> Work </b> </span><br />
