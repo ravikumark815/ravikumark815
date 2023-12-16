@@ -6,8 +6,8 @@
 - Committed to fostering collaboration among Engineering, QA and Support teams to implement system-level improvements that benefit end-users.
 
 <img src="ICON/education.png" height="15px" width="15px"/> <span> <b> Education </b> </span><br />
-<a href="https://github.com/ravikumark815/certifications/blob/master/Masters_Degree.pdf">- Master of Technology in Software Systems – Security from Birla Institute of Technology and Science. 2021 – 2023</a><br>
-<a href="https://github.com/ravikumark815/certifications/blob/master/Bachelors_Degree.pdf">- Bachelor of Engineering in Computer Science & Engineering from Visvesvaraya Technological University. 2011 – 2015</a>
+- <a href="https://github.com/ravikumark815/certifications/blob/master/Masters_Degree.pdf">Master of Technology</a> in Software Systems – Security from Birla Institute of Technology and Science. 2021 – 2023<br>
+- <a href="https://github.com/ravikumark815/certifications/blob/master/Bachelors_Degree.pdf">Bachelor of Engineering</a> in Computer Science & Engineering from Visvesvaraya Technological University. 2011 – 2015
 
 <img src="ICON/work.png" height="15px" width="15px"/> <span> <b> Work </b> </span><br />
 <table> <tr> 
