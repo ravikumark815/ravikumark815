@@ -1,11 +1,14 @@
 ## Hello! 🙏🏽
 
 <img src="ICON/aboutme.png" height="15px" width="15px"/> <span> <b> About Me </b> </span><br />
-- Software Developer with extensive experience of 8+ years in developing System Platform Software, Network Datapath, Applications and Tools for Next Generation Firewalls (NGFW), Switches and Access points.
-- Proficient in Layer 2, 3, 4 & 7 networking, Network Security, Cloud Computing, Virtualization, Containerization, Linux Internals, Software Architecture, with a keen grasp of latest technologies.
-- Committed to fostering collaboration among Engineering, QA and Support teams to implement system-level improvements that benefit end-users.<br />
+★ Software Developer with extensive experience of 8+ years in developing System Platform Software, Network Datapath, Applications and Tools for Next Generation Firewalls (NGFW), Switches and Access points.
+★ Proficient in Layer 2, 3, 4 & 7 networking, Network Security, Cloud Computing, Virtualization, Containerization, Linux Internals, Software Architecture, with a keen grasp of latest technologies.
+★ Adept at designing, configuring, developing, and troubleshooting of diverse vendor firewalls, routers, and switches.
+★ Skilled in cross-functional collaboration and driving system-level improvements for enhanced user experience.
+★ Passionate about innovation and staying ahead of the curve in the rapidly evolving virtual networking landscape.
+<br />
 
-<img src="ICON/resume.png" height="17px" width="17px"/> <span> <a href="https://github.com/ravikumark815/resume/blob/master/Resume.pdf"> My Resumé </a> </span><br />
+<img src="ICON/resume.png" height="17px" width="17px"/> <span> <a href="https://github.com/ravikumark815/resume/blob/master/Resume.pdf"> My Résumé </a> </span><br />
 
 <img src="ICON/education.png" height="15px" width="15px"/> <span> <b> Education </b> </span><br />
 - <a href="https://github.com/ravikumark815/certifications/blob/master/Masters_Degree.pdf">Master of Technology</a> in Software Systems – Security from Birla Institute of Technology and Science. 2021 – 2023<br />
