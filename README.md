@@ -2,21 +2,13 @@
 
 <img src="ICON/aboutme.png" height="15px" width="15px"/> <span> <b> About Me </b> </span><br />
 ★ Software Developer with a Masters in Software Systems and an extensive experience of 8+ years in developing System Platform Software, Network Datapath, Applications and Tools.
-
 ★ Proficient in Layers 2,3,4&7 networking, Network Security, Virtualization, Cloud Computing, Linux Internals, Containerization, Software Architecture, with a keen grasp of latest technologies. 
-
 ★ Hands-on experience in design, configuration, development, and troubleshooting of diverse public and private cloud platforms and networking products including firewalls, routers, and switches.
-
 ★ Collaborative team player experienced in fostering relationships across cross-functional teams, contributing effectively to collective objectives, and achieving successful project outcomes. 
-
 ★ Highly adaptable professional skilled in swiftly acclimating to new technologies and industry developments, adeptly navigating diverse work environments and evolving landscapes.
-
 ★ Adept at active listening, encouraging open dialogue, and valuing diverse perspectives within team settings, contributing to cohesive and productive work environments.
-
 ★ Demonstrated ability in identifying and enhancing architectural scalability and application design. Adept at developing diagnostic tools and utilities to troubleshoot issues efficiently.
-
 ★ Github: https://github.com/ravikumark815
-
 ★ LeetCode: https://leetcode.com/ravikumark815/
 <br />
 
