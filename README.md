@@ -51,7 +51,8 @@
 <img src="ICON/version-control.png" height="15px" width="15px"/> <span> Git, Perforce, Gerrit, Jira, Confluence, Target Process, Agile, Kanban </span><br />
 <img src="ICON/tools.png" height="15px" width="15px"/> <span> Visual Studio, Linux, MS Office, Windows </span><br />
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" width="80px"/><a href="https://www.linkedin.com/in/ravikumark815/"></a>
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px" width="80px"/><a href="https://github.com/ravikumark815"></a>
-<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="20px" width="80px"/><a href="https://leetcode.com/ravikumark815"></a><br />
+
+<a href="https://www.linkedin.com/in/ravikumark815/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20px" width="80px"/></a>
+<a href="https://github.com/ravikumark815"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="20px" width="80px"/></a>
+<a href="https://leetcode.com/ravikumark815"> <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height="20px" width="80px"/></a>
 <br />
