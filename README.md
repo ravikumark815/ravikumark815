@@ -13,7 +13,7 @@
 
 ★ Adept at developing diagnostic tools and utilities to troubleshoot issues efficiently.
 
-<img src="ICON/resume.png" height="20px" width="20px"/> <span> <a href="https://github.com/ravikumark815/resume/blob/master/Resume.pdf">My Résumé</a> </span><br />
+> <img src="ICON/resume.png" height="20px" width="20px"/> **MY RÉSUMÉ**
 
 <img src="ICON/education.png" height="15px" width="15px"/> <span> <b> Education </b> </span><br />
 - <a href="https://github.com/ravikumark815/certifications/blob/master/Masters_Degree.pdf">Master of Technology</a> in Software Systems – Security from Birla Institute of Technology and Science. 2021 – 2023<br />
