@@ -1,7 +1,7 @@
 ## Hello! 🙏🏽
 
 <img src="ICON/aboutme.png" height="15px" width="15px"/> <span> <b> About Me </b> </span><br />
-★ Software Developer with a Masters in Software Systems and an extensive experience of 8+ years in developing System Platform Software, Network Datapath, Applications and Tools.
+★ Software Developer with a Masters in Software Systems and an extensive experience of 9+ years in developing System Platform Software, Network Datapath, Applications and Tools.
 
 ★ Proficient in Layers 2,3,4&7 networking, Network Security, Virtualization, Cloud Computing, Linux Internals, Containerization, Software Architecture, with a keen grasp of latest technologies.
 
@@ -9,9 +9,7 @@
 
 ★ Collaborative team player experienced in fostering relationships across cross-functional teams, contributing effectively to collective objectives, and achieving successful project outcomes.
 
-★ Highly adaptable professional, adept at active listening, encouraging open dialogue, and valuing diverse perspectives within team settings, contributing to cohesive and productive work environments.
-
-★ Adept at developing diagnostic tools and utilities to troubleshoot issues efficiently.
+★ Adept at debugging and optimizing system performance, including resolving kernel/user space issues, concurrency problems, and memory leaks.
 
 > <img src="ICON/resume.png" height="20px" width="20px"/> <a href="https://github.com/ravikumark815/resume/blob/master/Resume.pdf">**MY RÉSUMÉ**</a> </span><br /> 
 
